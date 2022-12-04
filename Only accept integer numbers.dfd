@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+29
+'Ingrese un número natural: '
+5
+1
+1
+a
+7
+0
+1
+4
+a>=0
+4
+1
+43
+'Los naturales son sólo números positivos.'
+13
+6
+1
+6
+entero
+10
+a-trunc(a)
+7
+0
+1
+10
+entero = 0
+4
+1
+38
+'Él número que ingresó no es natural.'
+13
+4
+1
+31
+'El número que ingresó es: ', a
+13
+13
+1
